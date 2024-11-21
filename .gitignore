@@ -1,0 +1,8 @@
+.*
+/logs
+!logs/main.log
+!.html
+!.js
+!.css
+!.gitignore
+
